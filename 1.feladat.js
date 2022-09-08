@@ -1,7 +1,7 @@
 const tomb =[];
 for(i = 0; i<10; i++)
 {
-tomb.push(Math.random()*101)
+tomb.push(Math.random()*100)
 }
 tomb.sort();
 
